@@ -18,7 +18,7 @@ Esta é uma API REST desenvolvida com **NestJS**, projetada para fornecer uma es
 - [Swagger](https://swagger.io/) - Documentação automática da API
 - [JWT](https://jwt.io/) - Autenticação segura
 
-## 🚀 Instalação e Execução
+## 🚀 Instalação
 
 ### 🔧 Pré-requisitos
 - [Node.js](https://nodejs.org/) (versão 16 ou superior)
